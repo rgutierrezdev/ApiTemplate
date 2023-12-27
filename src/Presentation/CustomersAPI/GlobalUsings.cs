@@ -1,0 +1,9 @@
+global using Mapster;
+global using ApiTemplate.Application.Common.Constants;
+global using ApiTemplate.Application.Common.Models;
+global using ApiTemplate.Domain.Common.Exceptions;
+global using ApiTemplate.Infrastructure.Auth.Permissions;
+global using ApiTemplate.Infrastructure.Common;
+global using ApiTemplate.Infrastructure.OpenAPI;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
